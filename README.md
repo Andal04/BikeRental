@@ -1,4 +1,4 @@
-**Bike Rental Prediction**
+***Bike Rental Prediction***
 
 A machine learning project to predict the number of bike rentals using various regression models. This project is based on a dataset with multiple features describing seasonal, weather-related, and temporal conditions.
 
